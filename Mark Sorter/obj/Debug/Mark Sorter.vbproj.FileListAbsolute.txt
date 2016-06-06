@@ -1,0 +1,11 @@
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\bin\Debug\Mark Sorter.exe.config
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\obj\Debug\Mark_Sorter.Resources.resources
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\obj\Debug\Mark Sorter.vbproj.GenerateResource.Cache
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\bin\Debug\Mark Sorter.exe
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\bin\Debug\Mark Sorter.pdb
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\bin\Debug\Mark Sorter.xml
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\obj\Debug\Mark Sorter.exe
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\obj\Debug\Mark Sorter.xml
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\obj\Debug\Mark Sorter.pdb
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\obj\Debug\Mark Sorter.vbprojResolveAssemblyReference.cache
+C:\Users\Abhijeet\School\Grade 11\Sem 1 - Grade 11\Computer Science\VB Projects\Mark Sorter\Mark Sorter\obj\Debug\Mark_Sorter.Marks.resources
